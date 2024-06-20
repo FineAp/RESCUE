@@ -40,4 +40,6 @@ KOREA BLOG: https://blog.naver.com/dlgidgkr/223202206603
 
 BUILD LINK: https://drive.google.com/drive/folders/1NThYb9gs_9pU2-KZeyL291a0KtNriNVk?usp=drive_link
 
+Play Video: https://youtu.be/rWOP-n3u960
+
 ![4](https://github.com/FineAp/RESCUE/assets/143973266/c3eb1f03-f695-4a95-ab2f-c3b5766d6923)
